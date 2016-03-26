@@ -18,3 +18,6 @@ Python库，json的输出
 
 ### [dict](./dict/dict_test.py)
 利用"__dict__"的特性，减少代码量
+
+### [itertools](./itertools./itertools_test.py)
+itertools库，优雅地使用迭代器
