@@ -9,3 +9,6 @@ Python库，简易地导出多种类型的数据
 
 ### [json](./json/json_test.py)
 Python库，json的输出
+
+### [monkey](./monkey/monkey_test.py)
+全局替换使用库的方法
