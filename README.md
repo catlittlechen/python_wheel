@@ -15,3 +15,6 @@ Python库，json的输出
 
 ### [deepcopy](./deepcopy/deepcopy_test.py)
 参数的深拷贝，防止引用错误
+
+### [dict](./dict/dict_test.py)
+利用"__dict__"的特性，减少代码量
