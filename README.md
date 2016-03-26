@@ -12,3 +12,6 @@ Python库，json的输出
 
 ### [monkey](./monkey/monkey_test.py)
 全局替换使用库的方法
+
+### [deepcopy](./deepcopy/deepcopy_test.py)
+参数的深拷贝，防止引用错误
