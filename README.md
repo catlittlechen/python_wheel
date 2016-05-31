@@ -21,3 +21,6 @@ Python库，json的输出
 
 ### [itertools](./itertools/itertools_test.py)
 itertools库，优雅地使用迭代器
+
+### [parallel](./parallel/)
+python多线程的方式
